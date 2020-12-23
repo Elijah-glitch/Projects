@@ -19,3 +19,4 @@ for i in range(views):
     time.sleep(Timer)
     driver.refresh()
     print(i)
+ 
